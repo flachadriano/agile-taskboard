@@ -34,19 +34,19 @@ Somente usuário Master pode fazer alterações em cadastros
 
 developed with http://lumzy.com/app/
 
-![Screenshot](https://bitbucket.org/flachadriano/agile-taskboard/raw/b22a2314602a/views/sign-up.jpg)
-![Screenshot](https://bitbucket.org/flachadriano/agile-taskboard/raw/b22a2314602a/views/sign-in.jpg)
+![Screenshot](https://raw.githubusercontent.com/flachadriano/agile-taskboard/master/views/sign-up.jpg)
+![Screenshot](https://raw.githubusercontent.com/flachadriano/agile-taskboard/master/views/sign-in.jpg)
 -----------------------------------------------------------------------------------------------------------------
-![Screenshot](https://bitbucket.org/flachadriano/agile-taskboard/raw/b22a2314602a/views/projects.jpg)
-![Screenshot](https://bitbucket.org/flachadriano/agile-taskboard/raw/b22a2314602a/views/project-new.jpg)
+![Screenshot](https://raw.githubusercontent.com/flachadriano/agile-taskboard/master/views/projects.jpg)
+![Screenshot](https://raw.githubusercontent.com/flachadriano/agile-taskboard/master/views/project-new.jpg)
 -----------------------------------------------------------------------------------------------------------------
-![Screenshot](https://bitbucket.org/flachadriano/agile-taskboard/raw/b22a2314602a/views/collaborators.jpg)
+![Screenshot](https://raw.githubusercontent.com/flachadriano/agile-taskboard/master/views/collaborators.jpg)
 -----------------------------------------------------------------------------------------------------------------
-![Screenshot](https://bitbucket.org/flachadriano/agile-taskboard/raw/b22a2314602a/views/groups.jpg)
-![Screenshot](https://bitbucket.org/flachadriano/agile-taskboard/raw/b22a2314602a/views/group-new.jpg)
-![Screenshot](https://bitbucket.org/flachadriano/agile-taskboard/raw/b22a2314602a/views/group.jpg)
-![Screenshot](https://bitbucket.org/flachadriano/agile-taskboard/raw/b22a2314602a/views/group-history-new.jpg)
+![Screenshot](https://raw.githubusercontent.com/flachadriano/agile-taskboard/master/views/groups.jpg)
+![Screenshot](https://raw.githubusercontent.com/flachadriano/agile-taskboard/master/views/group-new.jpg)
+![Screenshot](https://raw.githubusercontent.com/flachadriano/agile-taskboard/master/views/group.jpg)
+![Screenshot](https://raw.githubusercontent.com/flachadriano/agile-taskboard/master/views/group-history-new.jpg)
 -----------------------------------------------------------------------------------------------------------------
-![Screenshot](https://bitbucket.org/flachadriano/agile-taskboard/raw/b22a2314602a/views/taskboard.jpg)
-![Screenshot](https://bitbucket.org/flachadriano/agile-taskboard/raw/b22a2314602a/views/taskboard-history.jpg)
-![Screenshot](https://bitbucket.org/flachadriano/agile-taskboard/raw/b22a2314602a/views/taskboard-task.jpg)
+![Screenshot](https://raw.githubusercontent.com/flachadriano/agile-taskboard/master/views/taskboard.jpg)
+![Screenshot](https://raw.githubusercontent.com/flachadriano/agile-taskboard/master/views/taskboard-history.jpg)
+![Screenshot](https://raw.githubusercontent.com/flachadriano/agile-taskboard/master/views/taskboard-task.jpg)
