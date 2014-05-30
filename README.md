@@ -22,6 +22,27 @@ Versão 2
 Somente o usuário Master pode adicionar Colaboradores ao projeto, ou usuário autorizados
 Somente usuário Master pode fazer alterações em cadastros
 
+## Etapas de desenvolvimento
+
+Etapa 1
+
+- Criar projeto, informando somente
+- Criar sprint
+- Adicionar história no Sprint
+- Adicionar tarefa no Sprint
+- Trilhas TO DO, Doing, Done
+- Quando alterar tarefa para Doing, iniciar histórico de atividade
+- Quando remover tarefa para Doing, finalizar histórico de atividade
+- Finalizar/iniciar Sprint. voltar tarefas para novo Sprint
+
+Etapa 2
+
+- Criar pilha de tarefas futuras
+- Adicionar histórico, quando muda de sprint
+- Adicionar comentários
+- Compartilhamento de projetos
+- Adicionar prioridade na tarefa
+
 ## Class Diagram
 
 ![Screenshot](https://raw.githubusercontent.com/flachadriano/agile-taskboard/master/documentation/class.png)
