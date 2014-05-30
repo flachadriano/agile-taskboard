@@ -42,6 +42,7 @@ Etapa 2
 - Adicionar comentários
 - Compartilhamento de projetos
 - Adicionar prioridade na tarefa
+- Logar com contas externas (Google, Facebook, etc)
 
 ## Class Diagram
 
