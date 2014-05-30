@@ -24,11 +24,11 @@ Somente usuário Master pode fazer alterações em cadastros
 
 ## Class Diagram
 
-![Screenshot](https://bitbucket.org/flachadriano/agile-taskboard/raw/abbbfd51cdeafb3f2e57f3aa370bb138598b0256/documentation/class.png)
+![Screenshot](https://raw.githubusercontent.com/flachadriano/agile-taskboard/master/documentation/class.png)
 
 ## Database
 
-![Screenshot](https://bitbucket.org/flachadriano/agile-taskboard/raw/abbbfd51cdeafb3f2e57f3aa370bb138598b0256/documentation/database.png)
+![Screenshot](https://raw.githubusercontent.com/flachadriano/agile-taskboard/master/documentation/database.png)
 
 ## Views (Prototype)
 
