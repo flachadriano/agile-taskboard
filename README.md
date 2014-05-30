@@ -47,10 +47,6 @@ Etapa 2
 
 ![Screenshot](https://raw.githubusercontent.com/flachadriano/agile-taskboard/master/documentation/class.png)
 
-## Database
-
-![Screenshot](https://raw.githubusercontent.com/flachadriano/agile-taskboard/master/documentation/database.png)
-
 ## Views (Prototype)
 
 developed with http://lumzy.com/app/
